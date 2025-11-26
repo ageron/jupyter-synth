@@ -4,10 +4,10 @@ _A Colab notebook to have fun with audio in Python and learn the fundamentals of
 
 <table>
   <td>
-    <a href="https://colab.research.google.com/github/ageron/colab-synth/blob/main/colab-synth.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+    <a href="https://colab.research.google.com/github/ageron/jupyter-synth/blob/main/jupyter-synth.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   </td>
   <td>
-    <a target="_blank" href="https://kaggle.com/kernels/welcome?src=https://github.com/ageron/colab-synth/blob/main/colab-synth.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" /></a>
+    <a target="_blank" href="https://kaggle.com/kernels/welcome?src=https://github.com/ageron/jupyter-synth/blob/main/jupyter-synth.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" /></a>
   </td>
 </table>
 
