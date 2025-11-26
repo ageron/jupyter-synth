@@ -1,6 +1,6 @@
-# Colab-Synth
+# Jupyter-Synth
 
-_A Colab notebook to have fun with audio in Python and learn the fundamentals of audio processing._
+_A Jupyter notebook to have fun with audio in Python and learn the fundamentals of audio processing._
 
 <table>
   <td>
